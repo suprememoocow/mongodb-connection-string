@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-connection-string",
+  "version": "0.1.0",
+  "description": "MongoDB Connection String Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suprememoocow/mongodb-connection-string.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "connection"
+  ],
+  "author": "Andrew Newdigate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suprememoocow/mongodb-connection-string/issues"
+  },
+  "homepage": "https://github.com/suprememoocow/mongodb-connection-string",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
